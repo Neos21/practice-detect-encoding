@@ -1,4 +1,4 @@
-# practice-detect-encoding : Detect Encoding Practice
+# Practice Detect Encoding
 
 テキストファイルの文字コードや改行コードを判別・変換する練習用リポジトリ。
 
