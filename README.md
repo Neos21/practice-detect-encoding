@@ -43,7 +43,7 @@ $ nkf --guess ./files/*
 
 ## Author
 
-[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/Neos21))
+[Neo](http://neo.s21.xrea.com/)
 
 - [GitHub - practice-detect-encoding](https://github.com/Neos21/practice-detect-encoding)
 - [Corredor -  コマンドラインで文字コードや改行コードを調べる方法まとめ](http://neos21.hatenablog.com/entry/2018/04/11/080000)
