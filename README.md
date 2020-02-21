@@ -46,14 +46,14 @@ $ nkf --guess ./files/*
 [Neo](http://neo.s21.xrea.com/)
 
 - [GitHub - practice-detect-encoding](https://github.com/Neos21/practice-detect-encoding)
-- [Corredor -  コマンドラインで文字コードや改行コードを調べる方法まとめ](http://neos21.hatenablog.com/entry/2018/04/11/080000)
+- [Corredor -  コマンドラインで文字コードや改行コードを調べる方法まとめ](https://neos21.hatenablog.com/entry/2018/04/11/080000)
 
 
 ## Links
 
 - [Neo's World](http://neo.s21.xrea.com/)
-- [Corredor](http://neos21.hatenablog.com/)
-- [Murga](http://neos21.hatenablog.jp/)
-- [El Mylar](http://neos21.hateblo.jp/)
+- [Corredor](https://neos21.hatenablog.com/)
+- [Murga](https://neos21.hatenablog.jp/)
+- [El Mylar](https://neos21.hateblo.jp/)
 - [Neo's GitHub Pages](https://neos21.github.io/)
 - [GitHub - Neos21](https://github.com/Neos21/)
