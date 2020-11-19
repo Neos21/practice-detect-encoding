@@ -41,19 +41,7 @@ $ nkf --guess ./files/*
 - `$ od -c ./files/utf8-crlf.txt`
 - `$ grep -lzUP '\r' ./files/*` … CR を含むファイル名を列挙する
 
-## Author
-
-[Neo](http://neo.s21.xrea.com/)
-
-- [GitHub - practice-detect-encoding](https://github.com/Neos21/practice-detect-encoding)
-- [Corredor -  コマンドラインで文字コードや改行コードを調べる方法まとめ](https://neos21.hatenablog.com/entry/2018/04/11/080000)
-
 
 ## Links
 
-- [Neo's World](http://neo.s21.xrea.com/)
-- [Corredor](https://neos21.hatenablog.com/)
-- [Murga](https://neos21.hatenablog.jp/)
-- [El Mylar](https://neos21.hateblo.jp/)
-- [Neo's GitHub Pages](https://neos21.github.io/)
-- [GitHub - Neos21](https://github.com/Neos21/)
+- [Neo's World](https://neos21.net/)
