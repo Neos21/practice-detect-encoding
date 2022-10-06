@@ -1,4 +1,3 @@
 *.txt linguist-detectable=true
-*.txt linguist-language=Git-Attributes
-#Git-Config
+*.txt linguist-language=Git-Config
 #Git-Revision-List
