@@ -1,5 +1,2 @@
-.gitattributes linguist-detectable=true
-.gitattributes linguist-language=Git-Attributes
-
 *.txt linguist-detectable=true
-*.txt linguist-language=Git-Revision-List
+*.txt linguist-language=NPM-Config
