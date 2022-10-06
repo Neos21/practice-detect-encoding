@@ -1,5 +1,5 @@
-.tigattributes linguist-detectable=true
-.tigattributes linguist-language=Git-Attributes
+.gitattributes linguist-detectable=true
+.gitattributes linguist-language=Git-Attributes
 
 *.txt linguist-detectable=true
 *.txt linguist-language=Git-Revision-List
