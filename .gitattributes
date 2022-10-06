@@ -1,2 +1,4 @@
 *.txt linguist-detectable=true
-*.txt linguist-language=robots.txt
+*.txt linguist-language=Git-Attributes
+#Git-Config
+#Git-Revision-List
